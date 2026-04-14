@@ -1,0 +1,68 @@
+{
+  "pokeballs": [
+    {
+      "id": 1,
+      "name": "Dusk Ball",
+      "image": "Pokeballs/duskball.png",
+      "catch": {
+        "multiplier": 3.0,
+        "conditions": {
+          "night": true,
+          "cave": true
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name": "Fast Ball",
+      "image": "Pokeballs/fastball.png",
+      "catch": {
+        "multiplier": 4.0,
+        "conditions": {
+          "minSpeed": 100
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name": "Heavy Ball",
+      "image": "Pokeballs/heavyball.png",
+      "catch": {
+        "multiplier": 1.0,
+        "conditions": {
+          "weightBonus": true
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name": "Net Ball",
+      "image": "Pokeballs/netball.png",
+      "catch": {
+        "multiplier": 3.5,
+        "conditions": {
+          "types": ["Water", "Bug"]
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name": "Repeat Ball",
+      "image": "Pokeballs/repeatball.png",
+      "catch": {
+        "multiplier": 3.5,
+        "conditions": {
+          "alreadyCaught": true
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name": "Ultra Ball",
+      "image": "Pokeballs/ultraball.png",
+      "catch": {
+        "multiplier": 2.0
+      }
+    }
+  ]
+}

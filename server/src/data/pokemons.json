@@ -1,0 +1,1002 @@
+{
+  "pokemon": [
+    {
+      "dex": 144,
+      "name": "Articuno",
+      "generation": 1,
+      "isLegendary": true,
+      "image": "Pokemon/Poke144.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 55.4 },
+      "stats": { "speed": 85 },
+      "types": ["Ice", "Flying"]
+    },
+
+    {
+      "dex": 145,
+      "name": "Zapdos",
+      "generation": 1,
+      "isLegendary": true,
+      "image": "Pokemon/Poke145.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 52.6 },
+      "stats": { "speed": 100 },
+      "types": ["Electric", "Flying"]
+    },
+
+    {
+      "dex": 146,
+      "name": "Moltres",
+      "generation": 1,
+      "isLegendary": true,
+      "image": "Pokemon/Poke146.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 60.0 },
+      "stats": { "speed": 90 },
+      "types": ["Fire", "Flying"]
+    },
+
+    {
+      "dex": 150,
+      "name": "Mewtwo",
+      "generation": 1,
+      "isLegendary": true,
+      "image": "Pokemon/Poke150.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 122.0 },
+      "stats": { "speed": 130 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 151,
+      "name": "Mew",
+      "generation": 1,
+      "isLegendary": true,
+      "image": "Pokemon/Poke151.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 4.0 },
+      "stats": { "speed": 100 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 243,
+      "name": "Raikou",
+      "generation": 2,
+      "isLegendary": true,
+      "image": "Pokemon/Poke243.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 178.0 },
+      "stats": { "speed": 115 },
+      "types": ["Electric"]
+    },
+
+    {
+      "dex": 244,
+      "name": "Entei",
+      "generation": 2,
+      "isLegendary": true,
+      "image": "Pokemon/Poke244.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 198.0 },
+      "stats": { "speed": 100 },
+      "types": ["Fire"]
+    },
+
+    {
+      "dex": 245,
+      "name": "Suicune",
+      "generation": 2,
+      "isLegendary": true,
+      "image": "Pokemon/Poke245.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 187.0 },
+      "stats": { "speed": 85 },
+      "types": ["Water"]
+    },
+
+    {
+      "dex": 249,
+      "name": "Lugia",
+      "generation": 2,
+      "isLegendary": true,
+      "image": "Pokemon/Poke249.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 216.0 },
+      "stats": { "speed": 110 },
+      "types": ["Psychic", "Flying"]
+    },
+
+    {
+      "dex": 250,
+      "name": "Ho-Oh",
+      "generation": 2,
+      "isLegendary": true,
+      "image": "Pokemon/Poke250.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 199.0 },
+      "stats": { "speed": 90 },
+      "types": ["Fire", "Flying"]
+    },
+
+    {
+      "dex": 251,
+      "name": "Celebi",
+      "generation": 2,
+      "isLegendary": true,
+      "image": "Pokemon/Poke251.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 5.0 },
+      "stats": { "speed": 100 },
+      "types": ["Psychic", "Grass"]
+    },
+
+    {
+      "dex": 377,
+      "name": "Regirock",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke377.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 230.0 },
+      "stats": { "speed": 50 },
+      "types": ["Rock"]
+    },
+
+    {
+      "dex": 378,
+      "name": "Regice",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke378.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 175.0 },
+      "stats": { "speed": 50 },
+      "types": ["Ice"]
+    },
+
+    {
+      "dex": 379,
+      "name": "Registeel",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke379.png",
+      "catch": {
+        "defaultRate": 3
+      },
+      "physical": {
+        "weightKg": 205.0
+      },
+      "stats": {
+        "speed": 50
+      },
+      "types": ["Steel"]
+    },
+
+
+    {
+      "dex": 380,
+      "name": "Latias",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke380.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 40.0 },
+      "stats": { "speed": 110 },
+      "types": ["Dragon", "Psychic"]
+    },
+
+    {
+      "dex": 381,
+      "name": "Latios",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke381.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 60.0 },
+      "stats": { "speed": 110 },
+      "types": ["Dragon", "Psychic"]
+    },
+
+    {
+      "dex": 382,
+      "name": "Kyogre",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke382.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 352.0 },
+      "stats": { "speed": 90 },
+      "types": ["Water"]
+    },
+
+    {
+      "dex": 383,
+      "name": "Groudon",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke383.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 950.0 },
+      "stats": { "speed": 90 },
+      "types": ["Ground"]
+    },
+
+    {
+      "dex": 384,
+      "name": "Rayquaza",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke384.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 206.5 },
+      "stats": { "speed": 95 },
+      "types": ["Dragon", "Flying"]
+    },
+
+    {
+      "dex": 385,
+      "name": "Jirachi",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke385.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 1.1 },
+      "stats": { "speed": 100 },
+      "types": ["Steel", "Psychic"]
+    },
+    {
+      "dex": 386,
+      "name": "Deoxys",
+      "generation": 3,
+      "isLegendary": true,
+      "image": "Pokemon/Poke386.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 60.8 },
+      "stats": { "speed": 150 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 480,
+      "name": "Uxie",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke480.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 0.3 },
+      "stats": { "speed": 95 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 481,
+      "name": "Mesprit",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke481.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 0.3 },
+      "stats": { "speed": 80 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 482,
+      "name": "Azelf",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke482.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 0.3 },
+      "stats": { "speed": 115 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 483,
+      "name": "Dialga",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke483.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 683.0 },
+      "stats": { "speed": 90 },
+      "types": ["Steel", "Dragon"]
+    },
+
+    {
+      "dex": 484,
+      "name": "Palkia",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke484.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 336.0 },
+      "stats": { "speed": 100 },
+      "types": ["Water", "Dragon"]
+    },
+
+    {
+      "dex": 485,
+      "name": "Heatran",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke485.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 430.0 },
+      "stats": { "speed": 77 },
+      "types": ["Fire", "Steel"]
+    },
+
+    {
+      "dex": 486,
+      "name": "Regigigas",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke486.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 420.0 },
+      "stats": { "speed": 100 },
+      "types": ["Normal"]
+    },
+
+    {
+      "dex": 487,
+      "name": "Giratina",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke487.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 750.0 },
+      "stats": { "speed": 90 },
+      "types": ["Ghost", "Dragon"]
+    },
+    {
+      "dex": 488,
+      "name": "Cresselia",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke488.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 85.6 },
+      "stats": { "speed": 85 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 489,
+      "name": "Phione",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke489.png",
+      "catch": { "defaultRate": 30 },
+      "physical": { "weightKg": 3.1 },
+      "stats": { "speed": 80 },
+      "types": ["Water"]
+    },
+
+    {
+      "dex": 490,
+      "name": "Manaphy",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke490.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 1.4 },
+      "stats": { "speed": 100 },
+      "types": ["Water"]
+    },
+
+    {
+      "dex": 491,
+      "name": "Darkrai",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke491.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 50.5 },
+      "stats": { "speed": 125 },
+      "types": ["Dark"]
+    },
+
+    {
+      "dex": 492,
+      "name": "Shaymin",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke492.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 2.1 },
+      "stats": { "speed": 100 },
+      "types": ["Grass"]
+    },
+
+    {
+      "dex": 493,
+      "name": "Arceus",
+      "generation": 4,
+      "isLegendary": true,
+      "image": "Pokemon/Poke493.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 320.0 },
+      "stats": { "speed": 120 },
+      "types": ["Normal"]
+    },
+
+    {
+      "dex": 494,
+      "name": "Victini",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke494.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 4.0 },
+      "stats": { "speed": 100 },
+      "types": ["Psychic", "Fire"]
+    },
+
+    {
+      "dex": 638,
+      "name": "Cobalion",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke638.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 250.0 },
+      "stats": { "speed": 108 },
+      "types": ["Steel", "Fighting"]
+    },
+
+    {
+      "dex": 639,
+      "name": "Terrakion",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke639.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 260.0 },
+      "stats": { "speed": 108 },
+      "types": ["Rock", "Fighting"]
+    },
+
+    {
+      "dex": 640,
+      "name": "Virizion",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke640.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 200.0 },
+      "stats": { "speed": 108 },
+      "types": ["Grass", "Fighting"]
+    },
+
+    {
+      "dex": 641,
+      "name": "Tornadus",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke641.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 63.0 },
+      "stats": { "speed": 111 },
+      "types": ["Flying"]
+    },
+    {
+      "dex": 642,
+      "name": "Thundurus",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke642.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 61.0 },
+      "stats": { "speed": 111 },
+      "types": ["Electric", "Flying"]
+    },
+
+    {
+      "dex": 643,
+      "name": "Reshiram",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke643.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 330.0 },
+      "stats": { "speed": 90 },
+      "types": ["Dragon", "Fire"]
+    },
+
+    {
+      "dex": 644,
+      "name": "Zekrom",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke644.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 345.0 },
+      "stats": { "speed": 90 },
+      "types": ["Dragon", "Electric"]
+    },
+
+    {
+      "dex": 645,
+      "name": "Landorus",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke645.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 68.0 },
+      "stats": { "speed": 101 },
+      "types": ["Ground", "Flying"]
+    },
+
+    {
+      "dex": 646,
+      "name": "Kyurem",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke646.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 325.0 },
+      "stats": { "speed": 95 },
+      "types": ["Dragon", "Ice"]
+    },
+
+    {
+      "dex": 647,
+      "name": "Keldeo",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke647.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 48.5 },
+      "stats": { "speed": 108 },
+      "types": ["Water", "Fighting"]
+    },
+
+    {
+      "dex": 648,
+      "name": "Meloetta",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke648.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 6.5 },
+      "stats": { "speed": 90 },
+      "types": ["Normal", "Psychic"]
+    },
+
+    {
+      "dex": 649,
+      "name": "Genesect",
+      "generation": 5,
+      "isLegendary": true,
+      "image": "Pokemon/Poke649.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 82.5 },
+      "stats": { "speed": 99 },
+      "types": ["Bug", "Steel"]
+    },
+
+    {
+      "dex": 658,
+      "name": "Greninja",
+      "generation": 6,
+      "isLegendary": false,
+      "image": "Pokemon/Poke658.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 40.0 },
+      "stats": { "speed": 122 },
+      "types": ["Water", "Dark"]
+    },
+
+
+    {
+      "dex": 716,
+      "name": "Xerneas",
+      "generation": 6,
+      "isLegendary": true,
+      "image": "Pokemon/Poke716.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 215.0 },
+      "stats": { "speed": 99 },
+      "types": ["Fairy"]
+    },
+
+    {
+      "dex": 717,
+      "name": "Yveltal",
+      "generation": 6,
+      "isLegendary": true,
+      "image": "Pokemon/Poke717.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 203.0 },
+      "stats": { "speed": 99 },
+      "types": ["Dark", "Flying"]
+    },
+
+    {
+      "dex": 718,
+      "name": "Zygarde",
+      "generation": 6,
+      "isLegendary": true,
+      "image": "Pokemon/Poke718.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 305.0 },
+      "stats": { "speed": 95 },
+      "types": ["Dragon", "Ground"]
+    },
+
+    {
+      "dex": 719,
+      "name": "Diancie",
+      "generation": 6,
+      "isLegendary": true,
+      "image": "Pokemon/Poke719.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 8.8 },
+      "stats": { "speed": 50 },
+      "types": ["Rock", "Fairy"]
+    },
+    {
+      "dex": 720,
+      "name": "Hoopa",
+      "generation": 6,
+      "isLegendary": true,
+      "image": "Pokemon/Poke720.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 9.0 },
+      "stats": { "speed": 70 },
+      "types": ["Psychic", "Ghost"]
+    },
+
+    {
+      "dex": 721,
+      "name": "Volcanion",
+      "generation": 6,
+      "isLegendary": true,
+      "image": "Pokemon/Poke721.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 195.0 },
+      "stats": { "speed": 70 },
+      "types": ["Fire", "Water"]
+    },
+
+    {
+      "dex": 772,
+      "name": "Type: Null",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke772.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 120.5 },
+      "stats": { "speed": 59 },
+      "types": ["Normal"]
+    },
+
+    {
+      "dex": 773,
+      "name": "Silvally",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke773.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 100.5 },
+      "stats": { "speed": 95 },
+      "types": ["Normal"]
+    },
+
+    {
+      "dex": 785,
+      "name": "Tapu Koko",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke785.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 20.5 },
+      "stats": { "speed": 130 },
+      "types": ["Electric", "Fairy"]
+    },
+
+    {
+      "dex": 786,
+      "name": "Tapu Lele",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke786.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 18.6 },
+      "stats": { "speed": 95 },
+      "types": ["Psychic", "Fairy"]
+    },
+
+    {
+      "dex": 787,
+      "name": "Tapu Bulu",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke787.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 45.5 },
+      "stats": { "speed": 75 },
+      "types": ["Grass", "Fairy"]
+    },
+
+    {
+      "dex": 788,
+      "name": "Tapu Fini",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke788.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 21.2 },
+      "stats": { "speed": 85 },
+      "types": ["Water", "Fairy"]
+    },
+
+    {
+      "dex": 789,
+      "name": "Cosmog",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke789.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 0.1 },
+      "stats": { "speed": 37 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 790,
+      "name": "Cosmoem",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke790.png",
+      "catch": { "defaultRate": 45 },
+      "physical": { "weightKg": 999.9 },
+      "stats": { "speed": 37 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 791,
+      "name": "Solgaleo",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke791.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 230.0 },
+      "stats": { "speed": 97 },
+      "types": ["Psychic", "Steel"]
+    },
+
+    {
+      "dex": 792,
+      "name": "Lunala",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke792.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 120.0 },
+      "stats": { "speed": 97 },
+      "types": ["Psychic", "Ghost"]
+    },
+    {
+      "dex": 800,
+      "name": "Necrozma",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke800.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 230.0 },
+      "stats": { "speed": 79 },
+      "types": ["Psychic"]
+    },
+
+    {
+      "dex": 801,
+      "name": "Magearna",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke801.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 80.5 },
+      "stats": { "speed": 65 },
+      "types": ["Steel", "Fairy"]
+    },
+
+    {
+      "dex": 802,
+      "name": "Marshadow",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke802.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 22.2 },
+      "stats": { "speed": 125 },
+      "types": ["Fighting", "Ghost"]
+    },
+
+    {
+      "dex": 807,
+      "name": "Zeraora",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke807.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 44.5 },
+      "stats": { "speed": 143 },
+      "types": ["Electric"]
+    },
+
+    {
+      "dex": 808,
+      "name": "Meltan",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke808.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 8.0 },
+      "stats": { "speed": 34 },
+      "types": ["Steel"]
+    },
+
+    {
+      "dex": 809,
+      "name": "Melmetal",
+      "generation": 7,
+      "isLegendary": true,
+      "image": "Pokemon/Poke809.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 800.0 },
+      "stats": { "speed": 34 },
+      "types": ["Steel"]
+    },
+
+    {
+      "dex": 888,
+      "name": "Zacian",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke888.png",
+      "catch": { "defaultRate": 10 },
+      "physical": { "weightKg": 110.0 },
+      "stats": { "speed": 138 },
+      "types": ["Fairy"]
+    },
+
+    {
+      "dex": 889,
+      "name": "Zamazenta",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke889.png",
+      "catch": { "defaultRate": 10 },
+      "physical": { "weightKg": 210.0 },
+      "stats": { "speed": 138 },
+      "types": ["Fighting"]
+    },
+
+    {
+      "dex": 890,
+      "name": "Eternatus",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke890.png",
+      "catch": { "defaultRate": 10 },
+      "physical": { "weightKg": 950.0 },
+      "stats": { "speed": 130 },
+      "types": ["Poison", "Dragon"]
+    },
+
+    {
+      "dex": 891,
+      "name": "Kubfu",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke891.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 12.0 },
+      "stats": { "speed": 72 },
+      "types": ["Fighting"]
+    },
+
+    {
+      "dex": 892,
+      "name": "Urshifu",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke892.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 105.0 },
+      "stats": { "speed": 97 },
+      "types": ["Fighting", "Dark"]
+    },
+
+    {
+      "dex": 893,
+      "name": "Zarude",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke893.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 70.0 },
+      "stats": { "speed": 105 },
+      "types": ["Dark", "Grass"]
+    },
+
+    {
+      "dex": 894,
+      "name": "Regieleki",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke894.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 145.0 },
+      "stats": { "speed": 200 },
+      "types": ["Electric"]
+    },
+
+    {
+      "dex": 895,
+      "name": "Regidrago",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke895.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 200.0 },
+      "stats": { "speed": 80 },
+      "types": ["Dragon"]
+    },
+
+    {
+      "dex": 896,
+      "name": "Glastrier",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke896.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 800.0 },
+      "stats": { "speed": 30 },
+      "types": ["Ice"]
+    },
+
+    {
+      "dex": 897,
+      "name": "Spectrier",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke897.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 44.5 },
+      "stats": { "speed": 130 },
+      "types": ["Ghost"]
+    },
+
+    {
+      "dex": 898,
+      "name": "Calyrex",
+      "generation": 8,
+      "isLegendary": true,
+      "image": "Pokemon/Poke898.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 7.7 },
+      "stats": { "speed": 80 },
+      "types": ["Psychic", "Grass"]
+    },
+
+    {
+      "dex": 1007,
+      "name": "Koraidon",
+      "generation": 9,
+      "isLegendary": true,
+      "image": "Pokemon/Poke1007.png",
+      "catch": { "defaultRate": 3 },
+      "physical": { "weightKg": 303.0},
+      "stats": { "speed": 135 },
+      "types": ["Fighting", "Dragon"]
+    }
+  ]
+}
