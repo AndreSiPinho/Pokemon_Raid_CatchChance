@@ -3,10 +3,38 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', sans-serif;
+  min-height: 100vh;
+  overflow-y: auto;
 }
 
+#root {
+  min-height: 100vh;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
 
 .main {
   display: flex;
-  height: calc(100vh - 55px);
+  flex: 1;
+  min-height: 0;
+  overflow: hidden;
+}
+
+/* Chrome, Edge */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Firefox */
+html {
+  scrollbar-width: none;
+}
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
 }

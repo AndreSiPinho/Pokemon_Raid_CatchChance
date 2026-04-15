@@ -1,0 +1,16 @@
+.table-box {
+  flex: 1;
+  background: white;
+  border-radius: 12px;
+  padding: 15px;
+
+  display: flex;
+  flex-direction: column;
+
+  height: 500px;
+}
+
+.table-wrapper {
+  flex: 1;
+  overflow-y: auto;
+}
