@@ -16,12 +16,12 @@ function Header({ onGoHome }: Props) {
           aria-label="Ir para a página inicial"
         >
           <div className="logo-shell">
-            <img src={logo} alt="PokeTools logo" className="logo" />
+            <img src={logo} alt="PixelPokeTools logo" className="logo" />
           </div>
 
           <div className="brand-copy">
             <span className="brand-kicker">Raid Utility Suite</span>
-            <span className="title">PokeTools</span>
+            <span className="title">PixelPokeTools</span>
           </div>
         </button>
       </div>

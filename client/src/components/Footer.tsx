@@ -5,7 +5,7 @@ function Footer() {
     <footer className="footer">
       <div className="footer-main">
         <div className="footer-brand">
-          <span className="footer-kicker">PokeTools</span>
+          <span className="footer-kicker">PixelPokeTools</span>
           <p className="title">Calculadora de Catch Rate</p>
         </div>
 
