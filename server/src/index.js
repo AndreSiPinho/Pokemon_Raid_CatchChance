@@ -8,7 +8,7 @@ const pokeballData = require("./data/pokeball.json");
 
 const app = express();
 
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3000;
 const CLIENT_ORIGIN = process.env.CLIENT_ORIGIN || "*";
 const DIST_PATH = path.resolve(__dirname, "../../client/dist");
 
@@ -127,9 +127,11 @@ function buildCatchRateResponse(pokemon) {
   };
 }
 
-app.get("/", (_req, res) => {
-  res.send("API a funcionar!");
-});
+if (process.env.NODE_ENV !== "production") {
+  app.get("/", (_req, res) => {
+    res.send("API a funcionar!");
+  });
+}
 
 app.get("/pokemon", (_req, res) => {
   res.json(allPokemon);

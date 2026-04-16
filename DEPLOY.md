@@ -23,7 +23,7 @@ npm install
 npm run dev
 ```
 
-Em desenvolvimento, o Vite faz proxy para a API em `http://localhost:3001`.
+Em desenvolvimento, o Vite faz proxy para a API em `http://localhost:3000`.
 
 ## Build para producao
 
@@ -61,7 +61,7 @@ VITE_API_URL=
 `server/.env`
 
 ```env
-PORT=3001
+PORT=3000
 CLIENT_ORIGIN=*
 NODE_ENV=development
 ```
