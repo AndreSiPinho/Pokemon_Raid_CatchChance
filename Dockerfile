@@ -6,15 +6,19 @@ WORKDIR /app
 COPY client/package*.json ./client/
 COPY server/package*.json ./server/
 
+# CLIENT
 WORKDIR /app/client
-RUN npm ci
+RUN npm install
 
+# SERVER
 WORKDIR /app/server
-RUN npm ci --omit=dev
+RUN npm install --omit=dev
 
+# copiar resto do código
 WORKDIR /app
 COPY . .
 
+# build frontend
 WORKDIR /app/client
 RUN npm run build
 
